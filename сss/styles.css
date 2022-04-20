@@ -167,7 +167,7 @@ img {
   content: "";
   position:absolute;
   left:0;
-  bottom: -28px;
+  top: 51px;
   width: 100%;
   height: 4px;
   background-color: var(--accent-color);
